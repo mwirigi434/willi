@@ -11,8 +11,7 @@ UNIT NAME:                         COMPUTING PROGECTS DEVELOPMENT APPROACHES
 SUPERVISORS NAME:       MR. KEVIN NJAGI 
 DATE:                                    20th november2024 
  
-                                                               DECLARACTION 
-I hereby declare that this work that done is original, unique and has never been submitted to any examination body by another person for the institution award of any academic certificate, diploma or bachelors. 
+                  
   
 Name  	:  william mwirigi 
 Signature 	: ……………………. 
